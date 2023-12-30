@@ -1,0 +1,18 @@
+/* AnimatedButton.css */
+.animated-button {
+    /* Your existing button styles */
+  }
+  
+  .toggle-button {
+    /* Styles for the button when sidebar is closed */
+  }
+  
+  /* Other CSS styles for sidebar */
+  .sidebar {
+    /* Your existing sidebar styles */
+  }
+  
+  .sidebar.open {
+    /* Styles for the sidebar when it's open */
+  }
+  
