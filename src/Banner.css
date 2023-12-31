@@ -3,13 +3,15 @@
     height: 40px;
     text-align: right;
     font-size:x-small;
-    background-color: black;
+    background-color: rgb(255, 153, 0);
+ 
     /* color: green; */
     /* You can add more styles as per your design requirements */
 }
 .banner h1 {
+    font-family: 'Maven Pro', sans-serif;
     display: inline-flex;
     margin: 0;
-    padding: 0;
-    color: white;
+    padding: 5px;
+    color: black;
 }

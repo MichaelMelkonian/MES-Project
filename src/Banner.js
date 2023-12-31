@@ -7,7 +7,7 @@ const Banner = () => {
 
     return (
         <div className="banner">
-            <h1>[INSERT LOGO HERE]</h1>
+            <h1>OVIO.IO</h1>
         </div>
     );
 };

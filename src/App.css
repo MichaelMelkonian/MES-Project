@@ -6,8 +6,27 @@ body, html {
 }
 
 .parent-container {
+
   display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100%;
+
+}
+
+.main-content {
+
+  flex-grow: 1; /* takes the remaining space */
+}
+
+.route-content {
+  /* margin-top: 500px */
+  
+      justify-content: center; 
+      align-items: center; 
+    padding: 200px;
+    margin: 200px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    max-width: 600px;
+    margin: auto;
+    align-content: center;
 }
